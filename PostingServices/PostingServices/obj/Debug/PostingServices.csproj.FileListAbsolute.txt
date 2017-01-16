@@ -1,9 +1,0 @@
-C:\Coding\cSharp\PostingServices\PostingServices\bin\Debug\PostingServices.exe.config
-C:\Coding\cSharp\PostingServices\PostingServices\obj\Debug\PostingServices.csprojResolveAssemblyReference.cache
-C:\Coding\cSharp\PostingServices\PostingServices\bin\Debug\PostingServices.exe
-C:\Coding\cSharp\PostingServices\PostingServices\bin\Debug\PostingServices.pdb
-C:\Coding\cSharp\PostingServices\PostingServices\obj\Debug\PostingServices.exe
-C:\Coding\cSharp\PostingServices\PostingServices\obj\Debug\PostingServices.pdb
-C:\Users\Viktor\Desktop\PostingServices\PostingServices\bin\Debug\PostingServices.exe.config
-C:\Users\Viktor\Desktop\PostingServices\PostingServices\obj\Debug\PostingServices.exe
-C:\Users\Viktor\Desktop\PostingServices\PostingServices\obj\Debug\PostingServices.pdb
