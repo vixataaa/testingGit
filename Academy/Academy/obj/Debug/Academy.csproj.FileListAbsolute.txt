@@ -10,3 +10,9 @@ C:\Users\Viktor\Desktop\Academy\Academy\obj\Debug\Academy.pdb
 C:\Users\Viktor\Desktop\Academy\Academy\bin\Debug\Academy.exe
 C:\Users\Viktor\Desktop\Academy\Academy\bin\Debug\Academy.pdb
 C:\Users\Viktor\Desktop\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\obj\Debug\Academy.pdb
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\Viktor\Desktop\TestingGit\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
