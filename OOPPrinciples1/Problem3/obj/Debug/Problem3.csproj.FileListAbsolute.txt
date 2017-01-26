@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\bin\Debug\Problem3.exe.config
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\bin\Debug\Problem3.exe
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\bin\Debug\Problem3.pdb
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\obj\Debug\Problem3.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\obj\Debug\Problem3.exe
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem3\obj\Debug\Problem3.pdb

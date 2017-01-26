@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\bin\Debug\ExceptionsHW.exe.config
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\bin\Debug\ExceptionsHW.exe
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\bin\Debug\ExceptionsHW.pdb
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\obj\Debug\ExceptionsHW.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\obj\Debug\ExceptionsHW.exe
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ExceptionsHW\obj\Debug\ExceptionsHW.pdb

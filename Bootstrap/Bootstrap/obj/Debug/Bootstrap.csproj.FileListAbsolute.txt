@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\bin\Debug\Bootstrap.exe.config
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\bin\Debug\Bootstrap.exe
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\bin\Debug\Bootstrap.pdb
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\obj\Debug\Bootstrap.exe
+C:\Users\Viktor\Desktop\cSharp2\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\bin\Debug\CSharp2Classes.exe.config
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\bin\Debug\CSharp2Classes.exe
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\bin\Debug\CSharp2Classes.pdb
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\obj\Debug\CSharp2Classes.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\obj\Debug\CSharp2Classes.exe
+C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\CSharp2Classes\obj\Debug\CSharp2Classes.pdb

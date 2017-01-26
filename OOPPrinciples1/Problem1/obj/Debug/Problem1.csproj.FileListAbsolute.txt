@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem1\bin\Debug\Problem1.exe
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem1\bin\Debug\Problem1.pdb
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem1\obj\Debug\Problem1.exe
+C:\Users\Viktor\Desktop\cSharp2\OOPPrinciples1\Problem1\obj\Debug\Problem1.pdb
