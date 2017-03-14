@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\bin\Debug\BallBouncing.exe.config
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\bin\Debug\BallBouncing.exe
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\bin\Debug\BallBouncing.pdb
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\obj\Debug\BallBouncing.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\obj\Debug\BallBouncing.exe
+C:\Users\Viktor\Desktop\Coding Content\cSharp2\BallBouncing\BallBouncing\obj\Debug\BallBouncing.pdb
