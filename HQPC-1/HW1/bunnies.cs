@@ -13,20 +13,21 @@ namespace High.Quality.Code.BadExample
     {
         static void Main(string[] args)
         {
-            var bunnies = new List<Bunny>   {new Bunny {Name = "Leonid" , Age= 1, FurType = FurType.NotFluffy },
-                                            new Bunny { Age= 2, Name = "Rasputin" , FurType = FurType.ALittleFluffy },
-                                            new Bunny{ FurType = FurType.ALittleFluffy, Name = "Tiberii" , Age= 3, },
-                                            new Bunny{Name = "Neron" , FurType = FurType.ALittleFluffy, Age= 1 },
-                                            new Bunny{ Name = "Klavdii" , Age= 3, FurType = FurType.Fluffy },
-                                            new Bunny{ Name = "Vespasian" , Age= 3, FurType = FurType.Fluffy },
-                                            new Bunny {Name = "Domician" ,Age = 4, FurType = FurType.FluffyToTheLimit },
-                                            new Bunny {Name = "Tit" , Age= 2, FurType = FurType.FluffyToTheLimit }
-                                            };
+            var bunnies = new List<Bunny>
+            {
+                new Bunny { Name = "Leonid" , Age= 1, FurType = FurType.NotFluffy },
+                new Bunny { Age= 2, Name = "Rasputin" , FurType = FurType.ALittleFluffy },
+                new Bunny { FurType = FurType.ALittleFluffy, Name = "Tiberii" , Age= 3, },
+                new Bunny { Name = "Neron" , FurType = FurType.ALittleFluffy, Age= 1 },
+                new Bunny { Name = "Klavdii" , Age= 3, FurType = FurType.Fluffy },
+                new Bunny { Name = "Vespasian" , Age= 3, FurType = FurType.Fluffy },
+                new Bunny { Name = "Domician" ,Age = 4, FurType = FurType.FluffyToTheLimit },
+                new Bunny { Name = "Tit" , Age= 2, FurType = FurType.FluffyToTheLimit }
+            };
 
             // Introduce all bunnies 
             var consoleWriter = new ConsoleWriter();
-            foreach (
-                var bunny in bunnies)
+            foreach (var bunny in bunnies)
             {
                 bunny.Introduce(consoleWriter);
             }
@@ -47,7 +48,7 @@ namespace High.Quality.Code.BadExample
     }
 
 
-
+    // Bunny.cs
     [Serializable]
     public class Bunny
     {
@@ -74,17 +75,20 @@ namespace High.Quality.Code.BadExample
         }
     }
 
+    // FurType.cs
     public enum FurType
     {
         NotFluffy, ALittleFluffy, Fluffy, FluffyToTheLimit
     }
 
+    // IWriter.cs
     public interface IWriter
     {
         void Write(string message);
         void WriteLine(string message);
     }
 
+    // ConsoleWriter.cs
     public class ConsoleWriter : IWriter
     {
         public void Write(string message)
@@ -98,6 +102,7 @@ namespace High.Quality.Code.BadExample
         }
     }
 
+    // StringExtensions.cs
     public static class StringExtensions
     {
         public static string SplitToSeparateWordsByUppercaseLetter(this string sequence)
@@ -107,6 +112,7 @@ namespace High.Quality.Code.BadExample
             var builder = new StringBuilder(probableStringSize);
 
             var singleWhitespace = ' ';
+
             foreach (var letter in sequence)
             {
                 if (Char.IsUpper(letter))
