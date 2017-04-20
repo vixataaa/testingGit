@@ -2,3 +2,23 @@ textarea {
     width: 400px;
     height: 500px;
 }
+
+input {
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+button {
+    border: 2px solid green;
+    border-radius: 5px;
+    background: green;
+    color: white;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    font-weight: bold;
+}
