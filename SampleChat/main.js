@@ -1,5 +1,13 @@
 var database = firebase.database();
 
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 var $usernameInput = $("#username");
 var $usernameLabel = $("#usrname-label");
 var $loginBtn = $("#login-btn");
@@ -9,6 +17,12 @@ var $messageInput = $("#message-text");
 var $sendBtn = $("#send-btn");
 
 // localStorage.setItem("username", "1"); localStorage.removeItem("username");
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 
 window.onload = (function () {
     if (localStorage.getItem("username")) {
@@ -30,6 +44,11 @@ $loginBtn.on('click', function (ev) {
         $logoutBtn.css("display", "");
     }
 });
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 
 $logoutBtn.on('click', function (ev) {
     localStorage.removeItem("username");
@@ -52,6 +71,9 @@ function sendMessage(message) {
         })
     });
 }
+// Some text
+// Some text
+// Some text
 
 $sendBtn.on('click', function(ev) {
     let msg = $messageInput.val().trim();
@@ -63,6 +85,9 @@ $sendBtn.on('click', function(ev) {
         throw "Not logged in";
     }
 });
+// Some text
+// Some text
+// Some text
 
 let getFromDB = function getMessagesPromise() {
     return new Promise((resolve, reject) => {
@@ -71,6 +96,10 @@ let getFromDB = function getMessagesPromise() {
         });
     });
 };
+// Some text
+// Some text
+// Some text
+// Some text
 
 function parseMessages(data) {
     let result = [];
@@ -101,6 +130,10 @@ function displayMessages(messages) {
 
 
 
+// Some text
+// Some text
+// Some text
+// Some text
 
 
 database.ref().on('value', function(ev) {
