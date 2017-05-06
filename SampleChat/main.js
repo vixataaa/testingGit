@@ -161,6 +161,13 @@ database.ref().on('value', function(ev) {
     getFromDB()
         .then(parseMessages)
         .then(displayMessages);
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+        
+        
 });
 
 
