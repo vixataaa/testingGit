@@ -32,6 +32,20 @@ window.onload = (function () {
     } else {
         $logoutBtn.css("display", "none");
     }
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+    
 });
 
 // Login event
@@ -39,7 +53,14 @@ $loginBtn.on('click', function (ev) {
     if ($usernameInput.val() !== "") {
         localStorage.setItem("username", $usernameInput.val().trim());
         $usernameInput.css("display", "none");
+        // Some text
+// Some text
+// Some text
+// Some text
+// Some text
+
         $usernameLabel.css("display", "none");
+
         $loginBtn.css("display", "none");
         $logoutBtn.css("display", "");
     }
@@ -121,7 +142,7 @@ function parseMessages(data) {
 function displayMessages(messages) {
     let result = "";
     for(let i = 0; i < messages.length; i += 1) {
-        result += `[${messages[i].senton}] - ${messages[i].sender} : ${messages[i].message}\n`;
+        result += `${messages[i].senton} =>> - ${messages[i].sender} : ${messages[i].message}\n`;
     }
 
     console.log(result);
