@@ -1,5 +1,13 @@
 var database = firebase.database();
 
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 var $usernameInput = $("#username");
 var $usernameLabel = $("#usrname-label");
 var $loginBtn = $("#login-btn");
@@ -9,6 +17,12 @@ var $messageInput = $("#message-text");
 var $sendBtn = $("#send-btn");
 
 // localStorage.setItem("username", "1"); localStorage.removeItem("username");
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 
 window.onload = (function () {
     if (localStorage.getItem("username")) {
@@ -18,6 +32,20 @@ window.onload = (function () {
     } else {
         $logoutBtn.css("display", "none");
     }
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+    
 });
 
 // Login event
@@ -25,11 +53,23 @@ $loginBtn.on('click', function (ev) {
     if ($usernameInput.val() !== "") {
         localStorage.setItem("username", $usernameInput.val().trim());
         $usernameInput.css("display", "none");
+        // Some text
+// Some text
+// Some text
+// Some text
+// Some text
+
         $usernameLabel.css("display", "none");
+
         $loginBtn.css("display", "none");
         $logoutBtn.css("display", "");
     }
 });
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
 
 $logoutBtn.on('click', function (ev) {
     localStorage.removeItem("username");
@@ -52,6 +92,9 @@ function sendMessage(message) {
         })
     });
 }
+// Some text
+// Some text
+// Some text
 
 $sendBtn.on('click', function(ev) {
     let msg = $messageInput.val().trim();
@@ -63,6 +106,9 @@ $sendBtn.on('click', function(ev) {
         throw "Not logged in";
     }
 });
+// Some text
+// Some text
+// Some text
 
 let getFromDB = function getMessagesPromise() {
     return new Promise((resolve, reject) => {
@@ -71,6 +117,10 @@ let getFromDB = function getMessagesPromise() {
         });
     });
 };
+// Some text
+// Some text
+// Some text
+// Some text
 
 function parseMessages(data) {
     let result = [];
@@ -92,7 +142,7 @@ function parseMessages(data) {
 function displayMessages(messages) {
     let result = "";
     for(let i = 0; i < messages.length; i += 1) {
-        result += `[${messages[i].senton}] - ${messages[i].sender} : ${messages[i].message}\n`;
+        result += `${messages[i].senton} =>> - ${messages[i].sender} : ${messages[i].message}\n`;
     }
 
     console.log(result);
@@ -101,12 +151,23 @@ function displayMessages(messages) {
 
 
 
+// Some text
+// Some text
+// Some text
+// Some text
 
 
 database.ref().on('value', function(ev) {
     getFromDB()
         .then(parseMessages)
         .then(displayMessages);
+// Some text
+// Some text
+// Some text
+// Some text
+// Some text
+        
+        
 });
 
 
