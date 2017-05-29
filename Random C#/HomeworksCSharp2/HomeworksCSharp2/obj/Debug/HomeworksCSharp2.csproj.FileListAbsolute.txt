@@ -1,6 +1,0 @@
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\bin\Debug\HomeworksCSharp2.exe.config
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\bin\Debug\HomeworksCSharp2.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\bin\Debug\HomeworksCSharp2.pdb
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\obj\Debug\HomeworksCSharp2.csprojResolveAssemblyReference.cache
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\obj\Debug\HomeworksCSharp2.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\HomeworksCSharp2\obj\Debug\HomeworksCSharp2.pdb

@@ -1,6 +1,0 @@
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\bin\Debug\StringsHW2.exe.config
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\bin\Debug\StringsHW2.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\bin\Debug\StringsHW2.pdb
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\obj\Debug\StringsHW2.csprojResolveAssemblyReference.cache
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\obj\Debug\StringsHW2.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\StringsHW2\obj\Debug\StringsHW2.pdb

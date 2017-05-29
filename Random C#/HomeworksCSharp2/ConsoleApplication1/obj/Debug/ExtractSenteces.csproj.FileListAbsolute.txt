@@ -1,6 +1,0 @@
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\obj\Debug\ExtractSenteces.csprojResolveAssemblyReference.cache
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Viktor\Desktop\cSharp2\HomeworksCSharp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
