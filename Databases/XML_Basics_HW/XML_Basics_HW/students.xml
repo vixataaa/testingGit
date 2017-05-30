@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="./XSLTFile1.xsl"?>
 <students>
   <student>
-    <name>Student 1</name>
-    <sex>Other</sex>
+    <name>Toshko</name>
+    <sex>Male</sex>
     <birthdate>10/10/1990</birthdate>
     <phone>08888888</phone>
     <email>asd@asd.com</email>
@@ -17,7 +17,7 @@
     </exams>
   </student>
   <student>
-    <name>Student 2</name>
+    <name>ASDASD 2</name>
     <sex>Other</sex>
     <birthdate>10/10/1990</birthdate>
     <phone>08888888</phone>
